@@ -175,6 +175,18 @@ If you see the any error while running the command:
 
 Please, make sure all steps are using **the same** python version and that you have **conda installed**. Additionally, *mlflow* and *wandb* packages are crucial and should have the same version.
 
+## Submission Links
+
+GitHub Repository Link:
+https://github.com/Kage501/Project-Build-an-ML-Pipeline-Starter
+
+W&B Project Link:
+https://wandb.ai/models-western-governors-university/nyc_airbnb?nw=nwuserkage501
+
+## Release Notes
+
+- v1.0.0: Initial release
+- v1.0.1: Added filtering to remove listings outside NYC geographic boundaries and successfully reran the pipeline on `sample2.csv`
 
 ## License
 
